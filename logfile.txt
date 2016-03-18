@@ -1,0 +1,10 @@
+9 
+ ascii 2 bits 0 0 0 1 0 
+ ascii 3 bits 0 0 0 1 1 
+ ascii 4 bits 0 0 1 0 0 
+ ascii 5 bits 0 0 1 0 1 
+ ascii 6 bits 0 0 1 1 0 
+ ascii 7 bits 0 0 1 1 1 
+ ascii 25 bits 1 1 0 0 1 
+ ascii 26 bits 1 1 0 1 0 
+ ascii 27 bits 1 1 0 1 1 
